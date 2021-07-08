@@ -15,7 +15,7 @@
                     
                 </td>
                 <td><?=$row;?></td>
-                <td><?php echo $d['name']?></td>
+                <td><?php echo $d['names']?></td>
             </tr>
         <?php $row++; }?>
         <?php }?>
